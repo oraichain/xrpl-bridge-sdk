@@ -24,7 +24,7 @@
     "@oraichain/xrpl-bridge-contracts-sdk": "workspace:^",
     "@types/yargs": "^17.0.32",
     "discord.js": "^14.14.1",
-    "esbuild": "^0.20.2",
+    "esbuild": "^0.25.0",
     "readline-sync": "^1.4.10",
     "xrpl": "^4.0.0",
     "yargs": "^17.7.2"
